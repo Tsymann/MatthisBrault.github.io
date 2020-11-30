@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'qfi',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '5ujE7dns0FBacuLacv02x5AtIpOKIRRfjT7nkQIMSkiMBZQGKgtzXh2guckLHSQ2',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-11-30',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'GQR6y86TXQ3daRsuExjPVgcjr9aI1Wr565HdSTbaaQW8Awir8VhCf7rDAcwGdduh',
+    'cookie_iv' => '0OXQDsBsimyE01pGtRcZjAy43pw5xevA',
+    'new_cookie_key' => 'def0000097aa6c179269edabcf0325138b652eb0dbd9628789eadc7296719eb667b149595fce90c75c877ca17168bac87fb92bff9f67f64220b3a1f5e1a623b2bd242187',
+  ),
+);

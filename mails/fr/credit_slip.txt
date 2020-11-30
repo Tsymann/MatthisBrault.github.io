@@ -1,0 +1,13 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Identifiant de commande {order_name} - Avoir
+
+Un avoir a été généré à votre nom relatif à votre commande ayant pour référence {order_name}.
+
+Review this credit slip and download your invoice on our shop, go to the [Avoirs]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,19 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Merci pour votre commande ayant pour référence {order_name} sur {shop_name}
+
+Produit(s) à télécharger
+
+Vous avez {nbProducts} produit(s) à télécharger à l'aide du/des lien(s) suivant(s) :
+
+{virtualProductsTxt}
+
+Follow your order and download your invoice on our shop, go to the [Historique et détails de mes commandes]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Suivi de commande]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

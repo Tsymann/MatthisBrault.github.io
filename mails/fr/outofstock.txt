@@ -1,0 +1,17 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Merci pour votre commande ayant pour référence {order_name} sur {shop_name}
+
+Identifiant de commande {order_name} - Réassort nécessaire
+
+Malheureusement, un ou plusieurs produits sont actuellement en rupture de stock, cela peut entraîner un léger retard de livraison. Veuillez nous excuser pour le dérangement, soyez assurés que nous faisons notre possible pour rétablir la situation.
+
+Follow your order and download your invoice on our shop, go to the [Historique et détails de mes commandes]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Suivi de commande]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

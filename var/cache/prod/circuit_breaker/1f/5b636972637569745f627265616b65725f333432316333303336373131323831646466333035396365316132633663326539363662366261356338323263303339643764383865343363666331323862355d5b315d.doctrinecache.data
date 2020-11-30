@@ -1,0 +1,91 @@
+1606823217
+s:6179:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Consommation : les 3 tendances des fêtes</title>
+    <link>https://www.prestashop.com/fr/blog/consommation-tendances-fetes</link>
+    <description>Les fêtes 2020 se profilent à l’horizon, et elles s’annoncent tout sauf ordinaires.</description>
+     <pubDate>Mon, 30 Nov 2020 11:10:15 +0100</pubDate>
+ <dc:creator>Edwina Yvonne Dendler</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/consommation-tendances-fetes</guid>
+  </item>
+  <item>
+    <title>Les ventes en ligne pour Black Friday et Noël en Europe</title>
+    <link>https://www.prestashop.com/fr/blog/ventes-black-friday-noel</link>
+    <description>La fin de l’année est une période stratégique pour le commerce et pour le e-commerce en particulier. En moyenne les deux derniers mois pèsent 30% du chiffre d’affaires des commerçants.</description>
+     <pubDate>Fri, 27 Nov 2020 16:23:06 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ventes-black-friday-noel</guid>
+  </item>
+  <item>
+    <title>Augmentez votre taux de conversion grâce à dix techniques de copywriting</title>
+    <link>https://www.prestashop.com/fr/blog/taux-conversion-copywriting</link>
+    <description>Que désire un e-commerçant ? Vendre les produits ou services de sa boutique en ligne !</description>
+     <pubDate>Wed, 25 Nov 2020 15:03:06 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/taux-conversion-copywriting</guid>
+  </item>
+  <item>
+    <title>Créer votre e-boutique avec le Starter pack e-commerce PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/starter-pack-e-commerce</link>
+    <description>Dès l’annonce du nouveau confinement et la fermeture des commerces physiques dits non essentiels, Bruno Le Maire est intervenu pour informer des mesures de soutien aux entreprises et en particulier</description>
+     <pubDate>Mon, 23 Nov 2020 17:59:48 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/starter-pack-e-commerce</guid>
+  </item>
+  <item>
+    <title>Et si les intentions de recherche étaient le must du SEO ?</title>
+    <link>https://www.prestashop.com/fr/blog/intention-recherche-seo</link>
+    <description>Vous possédez une boutique en ligne ? Votre objectif est bien entendu de doper vos ventes et d’améliorer votre visibilité.</description>
+     <pubDate>Thu, 19 Nov 2020 17:22:27 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/intention-recherche-seo</guid>
+  </item>
+  <item>
+    <title>Les paiements de A à Z – Chapitre 4 : Lutter contre la fraude, quelle stratégie adopter ?</title>
+    <link>https://www.prestashop.com/fr/blog/paiement-lutter-fraude</link>
+    <description>Notre saga dédiée au paiement continue. Pour ce 4e chapitre, nous vous proposons d’aborder le sujet de la fraude.</description>
+     <pubDate>Wed, 18 Nov 2020 16:37:51 +0100</pubDate>
+ <dc:creator>Lucie Gimon FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/paiement-lutter-fraude</guid>
+  </item>
+  <item>
+    <title>Les ventes de fin d’année… c’est parti !</title>
+    <link>https://www.prestashop.com/fr/blog/black-friday-noel-commence</link>
+    <description>Black Friday et Noël 2020 : l’enjeu des ventes d’une fin d’année particulière</description>
+     <pubDate>Fri, 13 Nov 2020 16:32:07 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/black-friday-noel-commence</guid>
+  </item>
+  <item>
+    <title>Mettez le paquet sur la gestion de vos expéditions !</title>
+    <link>https://www.prestashop.com/fr/blog/importance-gestion-expeditions</link>
+    <description>Le e-commerce a été bousculé ces derniers mois par la pandémie.</description>
+     <pubDate>Mon, 09 Nov 2020 17:45:36 +0100</pubDate>
+ <dc:creator>Mélanie Albiger</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/importance-gestion-expeditions</guid>
+  </item>
+  <item>
+    <title>Comment vendre au-delà de votre site et de votre magasin ?</title>
+    <link>https://www.prestashop.com/fr/blog/vendre-ailleurs-boutique</link>
+    <description>Le confinement aura fortement accéléré la digitalisation des commerces.</description>
+     <pubDate>Mon, 09 Nov 2020 12:15:12 +0100</pubDate>
+ <dc:creator>Roxane Tranchard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/vendre-ailleurs-boutique</guid>
+  </item>
+  <item>
+    <title>Le click &amp;amp; collect c’est quoi, et comment le mettre en place rapidement ?</title>
+    <link>https://www.prestashop.com/fr/blog/click-and-collect-prestashop</link>
+    <description>Le 29 octobre dernier, le décret publié au Journal officiel sonnait le début d’un nouveau confinement national, certes moins strict que le premier, mais suffisamment restrictif pour impacter de nom</description>
+     <pubDate>Fri, 06 Nov 2020 12:21:09 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/click-and-collect-prestashop</guid>
+  </item>
+  </channel>
+</rss>
+";
