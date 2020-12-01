@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-11-30 12:44:41
+/* Smarty version 3.1.34-dev-7, created on 2020-11-30 16:35:57
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fc4db29108263_83947045',
+  'unifunc' => 'content_5fc5115db06750_13338047',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5fc4db29108263_83947045 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fc5115db06750_13338047 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
     <ol class="carousel-indicators">
@@ -30,11 +30,17 @@ function content_5fc4db29108263_83947045 (Smarty_Internal_Template $_smarty_tpl)
               <li class="carousel-item active" role="option" aria-hidden="false">
           <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-FR&amp;utm_content=download">
             <figure>
-              <img src="http://localhost/QFi/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1">
+              <img src="http://localhost/QFi/modules/ps_imageslider/images/3be3b37d42b80e2565b86829d90095d90588c661_marche-de-noel-2018-banniere.jpg" alt="">
+                          </figure>
+          </a>
+        </li>
+              <li class="carousel-item " role="option" aria-hidden="true">
+          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-FR&amp;utm_content=download">
+            <figure>
+              <img src="http://localhost/QFi/modules/ps_imageslider/images/1cc877652cec12e8ae20367f1b20e18669f9a0dc_1200x680_marche-avignon.jpg" alt="">
                               <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 1</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                  <h2 class="display-1 text-uppercase">Une ambiance magique</h2>
+                  <div class="caption-description"></div>
                 </figcaption>
                           </figure>
           </a>
@@ -42,23 +48,10 @@ function content_5fc4db29108263_83947045 (Smarty_Internal_Template $_smarty_tpl)
               <li class="carousel-item " role="option" aria-hidden="true">
           <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-FR&amp;utm_content=download">
             <figure>
-              <img src="http://localhost/QFi/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2">
+              <img src="http://localhost/QFi/modules/ps_imageslider/images/552ed5d078232d3f049ea6aef79d3d5dda3792ab_451172-vin-chaud-marche-traditionnel-strasbourg.jpg" alt="">
                               <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 2</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
-                          </figure>
-          </a>
-        </li>
-              <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-FR&amp;utm_content=download">
-            <figure>
-              <img src="http://localhost/QFi/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 3</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                  <h2 class="display-1 text-uppercase">Le délicieux vin chaud</h2>
+                  <div class="caption-description"></div>
                 </figcaption>
                           </figure>
           </a>
